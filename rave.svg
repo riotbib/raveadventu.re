@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="324.75772mm"
+   height="124.4078mm"
+   viewBox="0 0 324.75772 124.4078"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(53.331726,-23.200375)">
+    <rect
+       style="fill:#ffff00;stroke-width:0.000165969;stroke-linejoin:bevel"
+       id="rect17836"
+       width="324.75772"
+       height="124.4078"
+       x="-271.42599"
+       y="23.200375"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.000153839;stroke-linejoin:bevel"
+       id="path862"
+       cx="107.91589"
+       cy="106.27625"
+       rx="143.6958"
+       ry="24.674461" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:88.1944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-6.1009045"
+       y="107.78854"
+       id="text1430"><tspan
+         id="tspan1428"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Bold';stroke-width:0.264583"
+         x="-6.1009045"
+         y="107.78854">RAVE</tspan></text>
+  </g>
+</svg>
