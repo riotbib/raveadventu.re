@@ -61,7 +61,8 @@
   /*****/
   
   body {
-    background: purple;
+    background: rgb(50,60,168);
+    background: radial-gradient(circle, rgba(50,60,168,1) 0%, rgba(142,76,89,1) 100%); 
   }
   
   h1 { display: none; }
@@ -76,8 +77,8 @@
 
   .box span {
     display: block;
-    width: 30em;
-    height: 12em;
+    width: 30vw;
+    height: 10vh;
     position: fixed;
     -webkit-animation: moveX 7s linear 0s infinite alternate, moveY 10s linear 0s infinite alternate;
     -moz-animation: moveX 7s linear 0s infinite alternate, moveY 10s linear 0s infinite alternate;
@@ -86,8 +87,8 @@
   }
 
   .box span img {
-    width: 30em;
-    height: 12em
+    width: 30vw;
+    height: 10vh
   }
 
   @-webkit-keyframes moveX {
@@ -127,6 +128,7 @@
     <div class="box">
       <span><img src="rave.svg" alt="rave"/></span>
     </div>
+    &nbsp;
   </section>
 </body>
 </html>

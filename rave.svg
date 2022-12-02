@@ -7,15 +7,38 @@
    viewBox="0 0 324.75772 124.4078"
    version="1.1"
    id="svg5"
+   sodipodi:docname="rave.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0526052"
+     inkscape:cx="655.04141"
+     inkscape:cy="234.65588"
+     inkscape:window-width="1920"
+     inkscape:window-height="1181"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
      id="layer1"
      transform="translate(53.331726,-23.200375)">
     <rect
-       style="fill:#ffff00;stroke-width:0.000165969;stroke-linejoin:bevel"
+       style="fill:#ffdd55;stroke-width:0.000165969;stroke-linejoin:bevel"
        id="rect17836"
        width="324.75772"
        height="124.4078"
@@ -23,7 +46,7 @@
        y="23.200375"
        transform="scale(-1,1)" />
     <ellipse
-       style="fill:#ff0000;stroke-width:0.000153839;stroke-linejoin:bevel"
+       style="fill:#00ffcc;stroke-width:0.000153839;stroke-linejoin:bevel"
        id="path862"
        cx="107.91589"
        cy="106.27625"
@@ -31,12 +54,12 @@
        ry="24.674461" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:88.1944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:88.1944px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#7137c8;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-6.1009045"
        y="107.78854"
        id="text1430"><tspan
          id="tspan1428"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:'Helvetica Neue LT Std';-inkscape-font-specification:'Helvetica Neue LT Std Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.1944px;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';fill:#7137c8;stroke-width:0.264583"
          x="-6.1009045"
          y="107.78854">RAVE</tspan></text>
   </g>
